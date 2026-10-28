@@ -40,15 +40,6 @@ $ history | grep rutgers
 ```
 
 ```text
-$ ./snake --eat ~/.contributions
-```
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryan7626/ryan7626/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryan7626/ryan7626/output/github-snake.svg" />
-  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/ryan7626/ryan7626/output/github-snake.svg" />
-</picture>
-
-```text
 $ ./connect.sh
 ```
 [`linkedin`](https://linkedin.com/in/rautaryan) · [`portfolio`](https://portfolio-ryan7626s-projects.vercel.app) · [`ingress`](https://ingresshq.com) · [`mail`](mailto:aryansraut29@gmail.com)
