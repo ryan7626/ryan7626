@@ -6,7 +6,7 @@ $ neofetch
   | .------------. |    --------------
   | | >_ aryan   | |    Role ....... Founding Engineer @ The Reasoning Company
   | |  $ make    | |    Shipping ... Ingress: AI forms + intake (Verizon, Penn State)
-  | |  ▌         | |    Kernel ..... Python · TypeScript · C# · SQL · Rust · C/C++
+  | |  _         | |    Kernel ..... Python · TypeScript · C# · SQL · Rust · C/C++
   | '------------' |    Packages ... React, Next.js, PostgreSQL, Redis, Docker
   '----------------'    Tests ...... pytest, Vitest, too many fixtures
       __|____|__        Uptime ..... Rutgers CS '25, Magna Cum Laude
