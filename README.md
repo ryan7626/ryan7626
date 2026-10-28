@@ -1,20 +1,47 @@
-# Hi, I'm Aryan
+<p align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=39D353&width=640&lines=%24+whoami;aryan%3A+backend%2C+AI+tooling%2C+and+the+odd+3D+world;%24+echo+%24MISSION;AI+writes+the+code.+someone+has+to+check+it." alt="$ whoami: aryan" /></p>
 
-I'm a Founding Engineer at The Reasoning Company, building [Ingress](https://ingresshq.com), an AI-powered forms and intake platform used by Verizon engineers and Penn State departments. I work across the stack: Python and C# services, REST APIs, PostgreSQL, Redis, and the React form builder.
+```text
+$ neofetch
+  .----------------.    aryan@ryan7626
+  | .------------. |    --------------
+  | | >_ aryan   | |    Role ....... Founding Engineer @ The Reasoning Company
+  | |  $ make    | |    Shipping ... Ingress: AI forms + intake (Verizon, Penn State)
+  | |  ▌         | |    Kernel ..... Python · TypeScript · C# · SQL · Rust · C/C++
+  | '------------' |    Packages ... React, Next.js, PostgreSQL, Redis, Docker
+  '----------------'    Tests ...... pytest, Vitest, too many fixtures
+      __|____|__        Uptime ..... Rutgers CS '25, Magna Cum Laude
+     /__________\       Locale ..... en_US, hi_IN, de_DE (beta), es_ES (beta)
+                        Shell ...... zsh
+                        Editor ..... whichever one has the AI in it this week
+```
 
-Rutgers CS '25, Magna Cum Laude.
+```text
+$ ls -l ~/projects
+drwxr-xr-x  evalyn/       code change in, tests out, run on both versions.
+                          real regression or flaky test? now you know. (private alpha)
+drwxr-xr-x  sceneforge/   photos in, explorable 3D gaussian-splat worlds out
+drwxr-xr-x  talos/        rust. pixels + camera geometry -> 3D rays. 49 unit tests
+drwxr-xr-x  docu/         a browser extension that explains scary forms, one field at a time
+```
 
-### What I'm building
+```text
+$ cat ~/.plan
+[x] graduate
+[x] ship a form builder people actually use
+[~] make AI-written code trustworthy          # see: evalyn
+[ ] get evalyn out of alpha
+```
 
-- **[Evalyn](https://github.com/ryan7626/Evalyn)**: AI tools write a lot of code now, and someone has to check it. Evalyn takes a code change, writes tests for it, and runs them on both versions, so you can tell a real regression from a flaky test. Python + TypeScript, Docker-isolated. Private alpha.
-- **[SceneForge](https://github.com/ryan7626/SceneForge)**: turns ordinary photos into explorable 3D Gaussian-splat worlds. Next.js, Three.js, SparkJS. [Live demo](https://worldhack-three.vercel.app)
-- **[TALOS](https://github.com/anmolgxrg/talos)**: Rust vision and navigation subsystem that maps pixels and camera geometry to 3D rays (collaborative).
-- **[Docu](https://github.com/ryan7626/Docu)**: browser extension that explains complex web forms field by field.
+```text
+$ history | grep rutgers
+  2024  sudo teach cs344 --students 200+
+  2024  explain dijkstra, A*, dynamic programming  # again, but slower
+  2025  git commit -m "segfaults are just pointers asking for attention"
+```
 
-### Stack
+```text
+$ ./connect.sh
+```
+[`linkedin`](https://linkedin.com/in/rautaryan) · [`portfolio`](https://portfolio-ryan7626s-projects.vercel.app) · [`ingress`](https://ingresshq.com) · [`mail`](mailto:aryansraut29@gmail.com)
 
-Python · TypeScript · C# · SQL · C/C++ · Rust · React · Next.js · PostgreSQL · Redis · Docker · pytest · Vitest
-
-### Find me
-
-[LinkedIn](https://linkedin.com/in/rautaryan) · [Portfolio](https://portfolio-ryan7626s-projects.vercel.app) · aryansraut29@gmail.com
+<sub>`[process exited with code 0]`</sub>
